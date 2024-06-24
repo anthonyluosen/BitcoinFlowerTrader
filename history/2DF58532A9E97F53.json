@@ -1,0 +1,57 @@
+[
+    {
+        "instId": "PEPE-USDT-SWAP",
+        "tdMode": "cross",
+        "ccy": "USDT",
+        "reduceOnly": true,
+        "side": "buy",
+        "posSide": "long",
+        "ordType": "limit",
+        "sz": 0.2,
+        "px": "0.000010586",
+        "uniquename": "2DF58532A9E97F53",
+        "lever": "50",
+        "mode": "cross"
+    },
+    {
+        "instId": "PEPE-USDT-SWAP",
+        "tdMode": "cross",
+        "ccy": "USDT",
+        "reduceOnly": true,
+        "side": "sell",
+        "posSide": "long",
+        "ordType": "limit",
+        "sz": 0.2,
+        "px": "0.000010478",
+        "uniquename": "2DF58532A9E97F53",
+        "lever": "50",
+        "mode": "cross"
+    },
+    {
+        "instId": "PEPE-USDT-SWAP",
+        "tdMode": "cross",
+        "ccy": "USDT",
+        "reduceOnly": true,
+        "side": "buy",
+        "posSide": "long",
+        "ordType": "market",
+        "sz": 0.2,
+        "uniquename": "2DF58532A9E97F53",
+        "lever": "50",
+        "mode": "cross"
+    },
+    {
+        "instId": "PEPE-USDT-SWAP",
+        "tdMode": "cross",
+        "ccy": "USDT",
+        "reduceOnly": true,
+        "side": "sell",
+        "posSide": "long",
+        "ordType": "limit",
+        "sz": 0.2,
+        "px": "0.000010344",
+        "uniquename": "2DF58532A9E97F53",
+        "lever": "50",
+        "mode": "cross"
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "instId": "BTC-USDT-SWAP",
+    "tdMode": "cross",
+    "ccy": "USDT",
+    "reduceOnly": true,
+    "side": "sell",
+    "posSide": "short",
+    "ordType": "limit",
+    "sz": 0.1,
+    "px": "61500",
+    "uniquename": "5F7BE2B35311D3EF",
+    "lever": "100",
+    "mode": "cross"
+}
